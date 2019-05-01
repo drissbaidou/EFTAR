@@ -1,3 +1,3 @@
-Playing around with MIPS assembly and PCSpim.
+Let's make this app as soon as possible 😎
 
-See mips/handout.pdf for full detail.
+
